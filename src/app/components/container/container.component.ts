@@ -13,8 +13,8 @@ export class ContainerComponent implements OnInit {
   ngOnInit() {
   }
 
-  onChange(theme: string){
-    this.theme = theme;
+  onChange(theme: string) {
+    this.newTheme = theme;
   }
 
 }

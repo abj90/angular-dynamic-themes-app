@@ -1,24 +1,24 @@
+@import '../../../themes.scss';
+// :host-context(.beacon) .container {
+//   margin-top: 100px;
+//   width: 400px;
+//   height: 400px;
+//   border: 1px solid;
+//   background-color: var(--foreground-secondary);
+//   border-radius: 18px 18px 18px 18px;
+//   -moz-border-radius: 18px 18px 18px 18px;
+//   -webkit-border-radius: 18px 18px 18px 18px;
+//   border: 0px solid #000000;
+// }
 
-:host-context(.beacon) .container{
-  margin-top: 100px;
-  width: 400px;
-  height: 400px;
-  border: 1px solid ;
-  background-color: var( --foreground-tertiary);
-  border-radius: 18px 18px 18px 18px;
-  -moz-border-radius: 18px 18px 18px 18px;
-  -webkit-border-radius: 18px 18px 18px 18px;
-  border: 0px solid #000000;
-}
-
-:host-context(.vdl) .container{
-  margin-top: 100px;
-  width: 400px;
-  height: 400px;
-  border: 1px solid ;
-  background-color: var( --foreground-tertiary);
-  border-radius: 88px 88px 88px 88px;
-  -moz-border-radius: 88px 88px 88px 88px;
-  -webkit-border-radius: 88px 88px 88px 88px;
-  border: 0px solid #000000;
-}
+// :host-context(.vdl) .container {
+//   margin-top: 100px;
+//   width: 400px;
+//   height: 400px;
+//   border: 1px solid;
+//   background-color: var(--foreground-tertiary);
+//   border-radius: 88px 88px 88px 88px;
+//   -moz-border-radius: 88px 88px 88px 88px;
+//   -webkit-border-radius: 88px 88px 88px 88px;
+//   border: 0px solid #000000;
+// }

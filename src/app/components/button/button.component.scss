@@ -1,10 +1,7 @@
-.main-container{
-  width: 910px;
-  height: 83Vh;
-  margin: 0px auto;
-  background-color: var(--background-default);
-  color: var(--foreground-default)
+.btn{
+  margin: 100px;
 }
+
 
 :host-context(.beacon) .btn-theme {
   box-sizing: border-box;

@@ -1,0 +1,24 @@
+.footer{
+  width: 100%;
+  height: 80px;
+  background-color: var(--background-tertiary);
+  color: var(--foreground-quaternary);
+  text-align: center;
+}
+
+.footer ul{
+  list-style-type: none;
+  padding-top: 30px;
+}
+
+.footer ul li {
+  display: inline;
+  border-right: 1px solid var(--foreground-quaternary);
+}
+
+li a {
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
